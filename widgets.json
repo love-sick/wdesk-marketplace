@@ -5,14 +5,14 @@
     {
       "id": "prayer",
       "name": "Prayer Times",
-      "description": "Daily prayer times with next-prayer countdown",
+      "description": "Daily prayer times with next-prayer countdown and multiple calculation methods.",
       "author": "WDesk Team",
       "version": "1.0.0",
       "previewEmoji": "🕌",
       "category": "Islamic",
-      "tags": ["prayer", "islamic", "time"],
-      "downloadUrl": "https://github.com/love-sick/wdesk-marketplace/releases/download/prayer-1.0.0/prayer.zip",
-      "fileSize": 45678,
+      "tags": ["prayer", "islamic", "time", "salah"],
+      "downloadUrl": "https://github.com/YOUR_USERNAME/wdesk-marketplace/releases/download/prayer-v1.0.0/prayer.zip",
+      "fileSize": 0,
       "sha256": "",
       "minWDeskVersion": "1.0.0",
       "releaseDate": "2025-01-20",
@@ -23,7 +23,7 @@
       "price": 0,
       "currency": "USD",
       "downloads": 0,
-      "rating": 0
+      "rating": 5.0
     }
   ]
 }
